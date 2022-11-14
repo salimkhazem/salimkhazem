@@ -1,6 +1,8 @@
 ### Hi there, It's Salim Khazem 👋
 
-🔭 I’m currently a PhD candidate in Computer Vision and Artificial Intelligence at GeorgiaTech-CNRS & CentraleSupelec. 
+- 🔭 PhD candidate in Computer Vision and Artificial Intelligence at GeorgiaTech-CNRS & CentraleSupelec.
+- 🌱 Working essentially on Segmentation and Classification tasks. 
+- ⚡ Linux user 
 <!--
 **salimkhazem/salimkhazem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
